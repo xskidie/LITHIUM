@@ -30,5 +30,5 @@ function LithiumEmojis()
         end
     end
 end
-local success,err = pcall(HoodsenseEmojis)
+local success,err = pcall(LithiumEmojis)
 return CrownId
